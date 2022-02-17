@@ -1,0 +1,23 @@
+.btn-primary{
+	background-color: #04384d;
+}
+
+#services{
+	background-color: #074052;
+	color: rgb(247, 144, 10);
+}
+
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+}
+
+#services img{
+	max-width: 100%;
+}
+
+header.masthead {
+    background-image: url("../img/header-2.jpg");
+}
+
+
